@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.203.118.188:8081/repository/ebay-bts-releases/</url>
+	      <url>http://44.203.118.188:8081/repository/ebay-btssrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
